@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Votre Serveur";
+var l_serverName = "CocaColaRP";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -102,16 +102,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Bienvenue sur Votre serveur Rp",
-"Merci de ne pas Freekill / Propskill",
-"Merci de Ne pas faire de Métagaming",
-"Merci de Ne pas Insulter",
-"Merci de Réspecter le NLR",
-"Merci de Ne pas Use Bug",
-"Merci de Jouer RP",
-"Merci de ne pas Déco pendant une Scène RP",
-"Amusez vous bien sur Votre Serveur !",
-"Pour Plus D'Infos rendez vous sur notre forum: lien du forum"
+"Thank you for joining to our server!",
+"Read rules for sure in F4 Menu!",
+"Enjoy playing in our server!",
 ];
 
 /*Random message order?*/
